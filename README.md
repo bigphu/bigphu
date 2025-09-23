@@ -21,7 +21,7 @@ I'm an **indie artist** and **game developer**.
   
   ![Unity](https://img.shields.io/badge/UNITY-FFFFFF?style=for-the-badge&logo=unity&logoColor=FFFFFF&labelColor=black)
   ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=black)
-  ![Aseprite](https://img.shields.io/badge/ASEPRITE-7D929E?style=for-the-badge&logo=aseprite&logoColor=FFFFFF&labelColor=black)
+  ![Aseprite](https://img.shields.io/badge/ASEPRITE-7D929E?style=for-the-badge&logo=aseprite&logoColor=7D929E&labelColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B%20-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=%2300599C&labelColor=black)
   ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=black)
   <br>
