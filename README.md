@@ -26,12 +26,24 @@
 
 <div align='center'>
 
- ``` 
-                    /^--^\                /^--^\     /^--^\               /^--^\                /^--^\                      
-                    \____/                \____/     \____/               \____/                \____/                      
-                   /      \              /      \   /      \             /      \              /      \                     
-                  |        |            |        | |        |           |        |            |        |                    
-                   \__  __/              \__  __/   \__  __/             \__  __/              \__  __/                     
+ <br>
+ 
+ 🎓  I'm studying at **Ho Chi Minh City University of Technology** (**HCMUT**) <br>
+ ✉️  You can contact me at [bigphu2005@gmail.com](mailto:bigphu2005@gmail.com) <br>
+ 🧠  I'm currently learning **art**; **website** and **game development** <br>
+
+ <br>
+
+</div>
+
+<div align='center'>
+
+ ```md
+                    /^--^\                /^--^\     /^--^\               /^--^\                 /^--^\                    
+                    \____/                \____/     \____/               \____/                 \____/                    
+                   /      \              /      \   /      \             /      \               /      \                   
+                  |        |            |        | |        |           |        |             |        |                  
+                   \__  __/              \__  __/   \__  __/             \__  __/               \__  __/                   
 |^|^|^|^|^|^|^|^|^|^|^\ \^|^|^|^|^|^|^|^|^|^\ \^|^|^|^/ /^|^|^|^|^|^|^|^|^|^\ \^|^|^|^|^|^|^|^|^|^/ /^|^|^|^|^|^|^|^|^|^|^|
 | | | | | | | | | | | |\ \| | | | | | | | | | \ \ | |/ /| | | | | | | | | | |\ \| | | | | | | | |/ /| | | | | | | | | | | |
 | | | | | | | | | | | / / | | | | | | | | | |/ /| | |\ \| | | | | | | | | | / / | | | | | | | | |\ \| | | | | | | | | | | |
@@ -41,26 +53,14 @@
 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 ```
 
+---
+
 </div>
 
-Hi 👋 My name is **Phạm Trần Gia Phú** aka **Big Phú**.
 
-I'm an **indie artist** and **game developer**.
-
----
-
-## **👤 Overview**
-
-* 🌍  I'm based in Vietnam
-* 🎓  I'm studying at Ho Chi Minh City University of Technology (HCMUT)
-* ✉️  You can contact me at [bigphu2005@gmail.com](mailto:bigphu2005@gmail.com)
-* 🧠  I'm currently learning art; website and game development
-
----
-
-## **✨ Skills**
-
-<div align="center"> 
+<div align="center">
+ 
+  # **✨ SKILLS ✨**
   
   ![Unity](https://img.shields.io/badge/UNITY-FFFFFF?style=for-the-badge&logo=unity&logoColor=FFFFFF&labelColor=black)
   ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=black)
@@ -84,7 +84,11 @@ I'm an **indie artist** and **game developer**.
 
 ---
 
-## **📱 Socials**
+<div align='center'>
+
+ # **📱 SOCIALS 📱**
+ 
+</div>
 
 <p align="center"> <a href="https://www.github.com/bigphu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://discord.com/users/bigphu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.facebook.com/bigphu21" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
 
