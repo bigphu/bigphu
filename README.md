@@ -62,8 +62,8 @@
  
   # **✨ SKILLS ✨**
   
-  ![Unity](https://img.shields.io/badge/UNITY-FFFFFF?style=for-the-badge&logo=unity&logoColor=FFFFFF&labelColor=black)
-  ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=black)
+  <!-- ![Unity](https://img.shields.io/badge/UNITY-FFFFFF?style=for-the-badge&logo=unity&logoColor=FFFFFF&labelColor=black) -->
+  <!-- ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=black) -->
   ![Aseprite](https://img.shields.io/badge/ASEPRITE-7D929E?style=for-the-badge&logo=aseprite&logoColor=7D929E&labelColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B%20-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=%2300599C&labelColor=black)
   ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=black)
@@ -73,7 +73,7 @@
   ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=663399&labelColor=black)
   ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
   ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=white)
+  <!-- ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=white) -->
   <br>
   ![Arduino](https://img.shields.io/badge/ARDUINO-00878F?style=for-the-badge&logo=arduino&logoColor=00878F&labelColor=black)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
