@@ -53,14 +53,12 @@
 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 ```
 
----
-
 </div>
 
 
 <div align="center">
  
-  # **✨ SKILLS ✨**
+  # **TECH STACK**
   
   <!-- ![Unity](https://img.shields.io/badge/UNITY-FFFFFF?style=for-the-badge&logo=unity&logoColor=FFFFFF&labelColor=black) -->
   <!-- ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=black) -->
@@ -87,7 +85,7 @@
 
 <div align='center'>
 
- # **📱 SOCIALS 📱**
+ # **SOCIALS**
  
 </div>
 
