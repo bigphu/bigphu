@@ -29,7 +29,7 @@
  <br>
  
  🎓  I'm studying at **Ho Chi Minh City University of Technology** (**HCMUT**) <br>
- ✉️  You can contact me at [bigphu2005@gmail.com](mailto:bigphu2005@gmail.com) <br>
+ ✉️  You can contact me via [my email](mailto:giaphu.pham.dev@gmail.com) <br>
  🧠  I'm currently learning **art**; **website** and **game development** <br>
 
  <br>
